@@ -12,6 +12,6 @@ const pdfButton = document.getElementById('pdf-button');
 
 // 添加点击事件
 pdfButton.addEventListener('click', function () {
-    // 替换为你的 PDF 文件链接
+    //替换为你的 PDF 文件链接
     window.location.href = 'https://github.com/XuzhengChen/jigaic/blob/main/references/sol_to_oj/sol1.pdf';
 });
