@@ -70,3 +70,19 @@ footer {
     color: #fff;
     margin-top: 2rem;
 }
+
+/* 按钮样式 */
+#pdf-button {
+    background-color: #007BFF; /* 蓝色背景 */
+    color: white; /* 白色文字 */
+    padding: 10px 20px; /* 内边距 */
+    border: none; /* 去掉边框 */
+    border-radius: 5px; /* 圆角 */
+    cursor: pointer; /* 鼠标悬停时显示手型 */
+    font-size: 16px; /* 字体大小 */
+    margin-top: 10px; /* 上边距 */
+}
+
+#pdf-button:hover {
+    background-color: #0056b3; /* 鼠标悬停时背景变深 */
+}
